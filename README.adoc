@@ -2,7 +2,7 @@
 :junit: 4.12
 :jupiter: 5.3.1
 :kotlintest: 3.1.10
-:mockk: 1.8.12
+:mockk: 1.9.3
 :spek: 2.0.0-rc.1
 :mockito: 2.23.0
 :strikt: 0.17.0
